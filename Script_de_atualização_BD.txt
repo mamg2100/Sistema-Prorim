@@ -1,0 +1,5 @@
+1) Colocar os dados entre aspas e retirar espaços
+'VISE','FAIXAS DE DIVULGAÇÃO','CAMPANHA DO PROGRAMA DE TUBERCULOSE','27667','','196/13','02/01/2013','R$ 7.800,00','60091/13','27/02/2013','60 FAIXAS - SOLICITADA PELO ENFª MILENE - comprador LEBRAO - OS recebida em 20/03 - 25/3 DIPE - 27 TRIBUTARIA (ISS)'  
+2) Testar scriptpara uma linha.OK
+3) Entrar na aplicação e atualizar corretamente as unidades, uma a uma;
+4) Atualizar as despesas também uma a uma;
